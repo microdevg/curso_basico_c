@@ -1,2 +1,2 @@
-.*/         # Carpetas ocultas
-.exe        # Programas compilados
+.*         # Carpetas ocultas
+*.exe        # Programas compilados
