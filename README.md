@@ -15,6 +15,6 @@
 
 
 ```
-gcc {el nombre del archivo}.c -o {el nombre del programa}
+gcc {el nombre del archivo}.c -o {el nombre del programa} (opcional) -D{Nombre de una definición (#define)}
 
 ```

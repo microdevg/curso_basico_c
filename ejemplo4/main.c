@@ -16,7 +16,6 @@
 
 // Ejemplos
 
-
 int suma(int n1, int n2){
     #ifdef PRINT_DETAILS   // Estos es una directiva de compilación condicional
     printf("[Detalles]suma %d %d  = %d \n",n1,n2,(n1+n2));

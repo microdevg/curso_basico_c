@@ -1,2 +1,4 @@
 .*         # Carpetas ocultas
-*.exe        # Programas compilados
+*/*.exe        # Programas compilados
+
+// Definicion de funciones
