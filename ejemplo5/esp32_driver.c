@@ -18,3 +18,5 @@ esp32_err_t esp32_uart_set( esp32_uart_t uart, uint32_t baudrate, esp32_gpio_t t
     printf(M_ESP32_UART_SET,baudrate,tx,rx);
     return ESP_OK;
 }
+
+
